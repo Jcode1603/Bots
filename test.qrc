@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../bot_GUI_pyQt5_twitter/twitter_background.png</file>
+  </qresource>
+</RCC>

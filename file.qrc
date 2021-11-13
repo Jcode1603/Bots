@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="image">
+    <file>instabot image.jpg</file>
+  </qresource>
+  <qresource prefix="css">
+    <file>homepage.css</file>
+  </qresource>
+</RCC>
